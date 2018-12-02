@@ -1,9 +1,0 @@
-
-
---New entry 2018-12-02 17:25:31.507771-- 
-
-{'statusCode': 200, 'statusText': 'Ok', 'data': {'testId': '181202_VX_04616300d6917a8b04db348b4aa08e69', 'ownerKey': '0fd183c26e05aea5f145a2991285b8452f619bd3', 'jsonUrl': 'http://www.webpagetest.org/jsonResult.php?test=181202_VX_04616300d6917a8b04db348b4aa08e69', 'xmlUrl': 'http://www.webpagetest.org/xmlResult/181202_VX_04616300d6917a8b04db348b4aa08e69/', 'userUrl': 'http://www.webpagetest.org/result/181202_VX_04616300d6917a8b04db348b4aa08e69/', 'summaryCSV': 'http://www.webpagetest.org/result/181202_VX_04616300d6917a8b04db348b4aa08e69/page_data.csv', 'detailCSV': 'http://www.webpagetest.org/result/181202_VX_04616300d6917a8b04db348b4aa08e69/requests.csv'}}
-
---New entry 2018-12-02 17:25:36.182389-- 
-
-{'statusCode': 200, 'statusText': 'Ok', 'data': {'testId': '181202_AW_fd595f4df4bd8de28cfa942e677fd823', 'ownerKey': '605d058e339fbb916dee35b4eeee7753394115da', 'jsonUrl': 'http://www.webpagetest.org/jsonResult.php?test=181202_AW_fd595f4df4bd8de28cfa942e677fd823', 'xmlUrl': 'http://www.webpagetest.org/xmlResult/181202_AW_fd595f4df4bd8de28cfa942e677fd823/', 'userUrl': 'http://www.webpagetest.org/result/181202_AW_fd595f4df4bd8de28cfa942e677fd823/', 'summaryCSV': 'http://www.webpagetest.org/result/181202_AW_fd595f4df4bd8de28cfa942e677fd823/page_data.csv', 'detailCSV': 'http://www.webpagetest.org/result/181202_AW_fd595f4df4bd8de28cfa942e677fd823/requests.csv'}}
